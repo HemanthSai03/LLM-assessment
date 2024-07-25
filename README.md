@@ -1,6 +1,6 @@
 CREATE A REACT APP USING LLM 
 
-To run the webpage install the react app and node modules
+To run the webpage install the react app and node modules and then add the components given above
 
 By using npm start we can host the react app
 
